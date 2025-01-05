@@ -1,0 +1,6 @@
+@article{REPO006,
+    author = "Schult, Jonas and Engelmann, Francis and Hermans, Alexander and Litany, Or and Tang, Siyu and Leibe, Bastian",
+    booktitle = "{International Conference on Robotics and Automation (ICRA)}",
+    title = "{{Mask3D: Mask Transformer for 3D Semantic Instance Segmentation}}",
+    year = "2023"
+}
